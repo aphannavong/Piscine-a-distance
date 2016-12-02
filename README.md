@@ -1,2 +1,2 @@
 # Piscine à distance<br />
-Challenge pour intégrer un centre de formation pour devenir développeur web
+Challenges pour intégrer un centre de formation pour devenir développeur web
