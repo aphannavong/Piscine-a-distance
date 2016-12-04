@@ -1,0 +1,139 @@
+Ce sont des concepts clés de culture générale que tout développeur doit connaître. 
+
+
+Base de données
+---------------
+Une base de données est un outil permettant de stocker et de retrouver l'intégralité de données brutes en rapport avec une activité. Celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles. Dans la très grande majorité des cas, ces informations sont très structurées, et la base est localisée dans un même lieu et sur un même support. Ce dernier est généralement informatisé, permet de mettre des données à la disposition d'utilisateurs pour une consultation, une saisie ou bien une mise à jour, tout en s'assurant des droits accordés à ces derniers. Cela est d'autant plus utile que les données informatiques sont de plus en plus nombreuses. 
+
+
+Modèle MVC
+----------
+Le modèle MVC pour Modèle-Vue-Controleur sépare votre application en 3 couches principales :
+La couche Model représente la partie de l’application qui exécute la logique métier. Cela signifie qu’elle est responsable de récupérer les données, de les convertir selon des concepts chargés de sens pour votre application, tels que le traitement, la validation, l’association et beaucoup d’autres tâches concernant la manipulation des données.
+La Vue retourne une présentation des données venant du model. Etant séparée par les Objets Model, elle est responsable de l’utilisation des informations dont elle dispose pour produire une interface de présentation de votre application.
+La couche Controller gère les requêtes des utilisateurs. Elle est responsable de retourner une réponse avec l’aide mutuelle des couches Model et Vue.
+
+
+
+W3C
+---
+Le World Wide Web Consortium, abrégé par le sigle W3C, est un organisme de standardisation à but non lucratif, fondé en octobre 1994, est chargé de promouvoir la compatibilité des différentes technologies du W3C.
+Au quotidien, le W3C met en relation une équipe de professionnels avec le grand public pour arriver, ensemble, à conduire le Web à son plein potentiel. Sur le long terme, le W3C veut assurer l'universalité de l'accès au web, garantir une utilisation efficace des ressources du web par les utilisateurs, et guider le développement du web en considérant les nouveaux enjeux sociaux, commerciaux et juridiques induits par cette technologie.
+
+"Le leitmotiv du W3C est « Un seul web partout et pour tous »".
+
+
+
+Test driven development (TDD)
+----------------------------
+Le test-driven development (TDD) ou en français développement piloté par les tests est une technique de développement de logiciel qui préconise d'écrire les tests unitaires avant d'écrire le code source d'un logiciel.
+Le cycle préconisé par TDD comporte cinq étapes :
+	1 - écrire un premier test ;
+	2 - vérifier qu'il échoue (car le code qu'il teste n'existe pas), afin de vérifier que le test est valide ;
+	3 - écrire juste le code suffisant pour passer le test ;
+	4 - vérifier que le test passe ;
+	5 - puis réusiner le code, c'est-à-dire l'améliorer tout en gardant les mêmes fonctionnalités.
+Ces tests permettent aussi de préciser les spécifications du code, et donc son comportement ultérieur en fonction des situations auxquelles il sera exposé. Ce qui facilite la production d'un code valide en toutes circonstances. On obtient donc un code plus juste et plus fiable.
+
+
+
+Feuille de style
+----------------
+Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML - XML dont les éléments doivent être affichés, à l'écran, sur du papier ou sur autre support. Introduit au milieu des années 1990, le CSS est utilisé dans la conception de sites web et bien pris en charge par les navigateurs web dans les années 2000. 
+Les standards définissant le CSS sont publiés par le World Wide Web Consortium (W3C).
+
+
+
+CMS
+---
+Un « CMS » (Content Management System, en français Gestion de contenu) est un site web disposant de fonctionnalités de publication et offrant en particulier une interface d'administration (back-office) permettant à un administrateur de site de créer ou organiser les différentes rubriques. 
+Les articles et le contenu du site sont en principe stockés dans un base de données, tandis que des templates (modèles de pages) permettant de définir la présentation du contenu. 
+Idéalement, un CMS doit posséder un système de workflow permettant à une équipe éditoriale de travailler simultanément sur le contenu du site et à un responsable de publication de valider les différentes contributions avant leur mise en ligne.
+Classiquement, un CMS propose une présentation sous forme de boîtes, la plupart du temps organisées en trois colonnes. La plupart des CMS disposent d'un fil RSS mis à jour automatiquement lors de la publication de nouveaux articles. 
+
+
+
+SCRUM
+-----
+Scrum signifie « Mêlée » en anglais, est considéré comme une méthode agile dédiée à la gestion de projet. Cette méthode de gestion à pour objectif d’améliorer la productivité de son équipe. 
+La méthode s'appuie sur le découpage d'un projet en boîtes de temps, nommées « sprints ». Les sprints peuvent durer entre quelques heures et un mois (avec une préférence pour deux semaines). Chaque sprint commence par une estimation suivie d'une planification opérationnelle. Le sprint se termine par une démonstration de ce qui a été achevé. Avant de démarrer un nouveau sprint, l'équipe réalise une rétrospective. Cette technique analyse le déroulement du sprint achevé, afin d'améliorer ses pratiques. Le flot de travail de l'équipe de développement est facilité par son auto-organisation, il n'y aura donc pas de gestionnaire de projet.
+La méthode agile est de loin la méthode Agile la plus utilisée dans le monde. 
+
+
+
+Symfony
+-------
+Symfony est le framework PHP de référence permettant de créer rapidement et efficacement un site web complexe. De mettre en place les environnements de test et de production, concevoir les contrôleurs, les templates, gérer la traduction et communiquer avec une base de données via Doctrine. Ainsi vous utiliseriez les bonnes pratiques de développement PHP pour concevoir des sites web de qualité professionnelle. Ce puissant framework supporté par une large communauté, vous feriez gagner en efficacité.
+
+
+Ruby-On-Rails
+-------------
+Ruby on Rails, également appelé RoR ou Rails, est un framework web libre écrit en langage Ruby. Il permet de créer des applications web très puissantes et d’écrire du code avec une très grande productivité. Il suit le motif de conception modèle-vue-contrôleur aussi nommé MVC. En tant que framework de référence de Ruby, il propose une structure au programmeur qui lui permet de développer plus vite et plus intuitivement. Il ajoute aussi un grand niveau d'abstraction dans la programmation de l'application par un ensemble de fonctions de haut niveau qui lui offre ainsi l'économie d'écrire lui-même la plupart des routines obligatoires d'une application web.
+
+
+
+Meteor
+------
+
+Meteor est un framework open-source de développement web en JavaScript basé sur Node.js. Le projet vise à créer un framework de « nouvelle génération » induisant un changement de paradigme notamment sur la manière de considérer les architectures client-serveur. Ce choix d’architecture permet de déplacer facilement un traitement du serveur vers le client et réciproquement voire de le dupliquer par exemple dans le cas de la validation d'un formulaire.
+Dans cette logique, Meteor inclut un système de gestion de base de données côté client, fonctionnalité originale du framework. Il est ainsi possible d'effectuer des requêtes même en étant déconnecté du serveur. Cela permet notamment à Meteor d'inclure par défaut, des mécanismes de compensation de latence. Par exemple, l'envoi d'un message dans un chat sera instantanément ajouté au fil des messages au clic sur le bouton "Envoyer", tandis que la vérification du message se fera en arrière plan côté serveur. 
+Ce mécanisme permet l'utilisation de la programmation réactive coté client.
+
+
+
+API
+---
+API signifie Application Programming Interface que l'on traduit en français par Interface de Programmation Applicative. L'API peut être résumée à une solution informatique qui permet à des applications de communiquer entre elles et de s'échanger mutuellement des services. Il s'agit en réalité d'un ensemble de fonctions qui facilitent, via un langage de programmation, l'accès aux services d'une application.
+Dans le domaine d'Internet, l'API permet aux développeurs de pouvoir utiliser un programme sans avoir à se soucier du fonctionnement complexe d'une application. Les API peuvent par exemple être utilisées pour déclencher des campagnes publicitaires d'e-mailing de façon automatique sans avoir à passer par la compréhension d'une telle application (c'est le cas avec l'API AdWords, par exemple). On les retrouve aujourd'hui dans de nombreux logiciels, en particulier dans les systèmes d'exploitation, les serveurs d'applications, dans le monde du graphisme (OpenGL), etc.
+
+
+
+Expression régulière
+--------------------
+Les expressions régulières constituent un système très puissant et très rapide pour faire des recherches dans des chaînes de caractères (des phrases, par exemple) que l’on appelle parfois un motif (pattern en anglais). Une des premières choses à réaliser dans la conception d'une expression régulière, c'est de définir le motif. C'est une sorte de fonctionnalité Rechercher / Remplacer très poussée, qui va nous permettre d'effectuer des recherches et des remplacements poussés dans des textes. Pour construire ce motif, vous avez besoin de créer une structure formée de caractères littéraux, puis de symboles qui sont définis en tant que métacaractères et délimiteurs et qui seront utilisés séparément ou en combinaison à l'intérieur d'un même groupement ou d'une classe.
+
+Voici quelques exemples pratiques de ce que vous serez en mesure de faire.
+
+Vérifier automatiquement si l'adresse e-mail entrée par le visiteur a une forme valide (comme « dupont@free.fr »).
+Modifier une date que vous avez au format américain (08-05-1985) pour la mettre dans le bon ordre en français (05/08/1985).
+Remplacer automatiquement toutes les adresses « http:// » par des liens cliquables, comme cela se fait sur certains forums.
+Ou encore créer votre propre langage simplifié à partir du HTML, comme le fameux bbCode ([b][/b]…).
+
+
+
+GIT
+---
+Git est un logiciel libre de gestion de versions décentralisé créé par Linus Torvalds. Il a spécialement été créé pour le développement du noyau linux, conçu pour être efficace tant avec les petits projets, que les plus importants. Depuis, il a beaucoup évolué et est utilisé par de nombreux projets dans le monde. Contrairement à des outils comme SVN ou CVS, Git fonctionne de façon décentralisée, c'est-à-dire que le développement ne se fait pas sur un serveur centralisé, mais chaque personne peut développer sur son propre dépôt. Git facilite ensuite la fusion (merge) des différents dépôts.
+
+
+
+UNIX
+----
+Le système Unix est un système d'exploitation multi-utilisateurs, multi-tâches, ce qui signifie qu'il permet à un ordinateur mono ou multi-processeurs de faire exécuter simultanément plusieurs programmes par un ou plusieurs utilisateurs. 
+Il possède un ou plusieurs interpréteurs de commandes (shell) ainsi qu'un grand nombre de commandes et de nombreux utilitaires (assembleur, compilateurs pour de nombreux langages, traitements de texte, messagerie électronique, ...). De plus il possède une grande portabilité, ce qui signifie qu'il est possible de mettre en oeuvre un système Unix sur la quasi-totalité des plates-formes matérielles. 
+De nos jours les systèmes Unix sont très présents dans les milieux professionnels et universitaires grâce à leur grande stabilité, leur niveau de sécurité élevé et le respect des grands standards, notamment en matière de réseau. 
+
+UNIX occupe certes une place centrale dans l'histoire de l'informatique. Mais c'est surtout, aujourd'hui, une référence à laquelle tous les autres systèmes d'exploitation essaient de ressembler. Il ne vise pas le grand-public mais, pour les entreprises, leurs serveurs et leurs stations de travail, un système UNIX est un gage de fiabilité sans équivalent. Ainsi, la part de marché* d'UNIX sur les serveurs informatiques en 2009 est estimée à 36,2 % - 35,3 % pour Windows et 13,6 % pour Linux.
+
+
+
+Shell
+-----
+Le mot shell signifie « coquille » en anglais. C'est une interface système ou est une couche logicielle qui fournit une interface utilisateur d'un système d'exploitation. Il correspond à la couche la plus externe de ce dernier. C'est le programme que vous utilisez régulièrement sur les machines Unix de l'ENS (que ce soient les Sun, les PC sous Linux ou autres dérivés d'Unix), et qui interprète les commandes. Shell est plus généralement employé pour désigner un interpréteur de lignes de commandes pouvant accéder aux services et interagir avec le noyau d'un système d'exploitation. Dans le cas d'Ubuntu, un shell interagit avec le noyau Linux.
+Le rôle de l'interpréteur de lignes de commandes est de traiter une ligne de commande, comprendre son contenu et exécuter la tâche associée. Le shell est intimement lié avec la notion de terminal, qui est une interface en mode texte dans lequel des lignes de commandes peuvent être saisies. Une fois une ligne de commande écrite dans un terminal, celui-ci l'envoie à l'interpréteur de lignes de commandes, qui la décortique et l'exécute.
+
+
+
+Node.js / io.js
+---------------
+Node.js est une plateforme logicielle libre et événementielle en JavaScript orientée vers les applications réseau qui doivent pouvoir monter en charge. Elle utilise la machine virtuelle V8 et implémente sous licence MIT les spécifications CommonJS. Node.js contient une bibliothèque de serveur HTTP intégrée, ce qui rend possible de faire tourner un serveur web sans avoir besoin d'un logiciel externe comme Apache ou lighttpd, et permettant de mieux contrôler la façon dont le serveur web fonctionne.
+Concrètement, node.js est un environnement d'assez bas niveau permettant d'exécuter du javascript non plus dans le navigateur web mais sur le serveur.
+Node.js est de plus en plus populaire comme plateforme serveur, elle est utilisée par Groupon, SAP, LinkedIn, Microsoft, Yahoo!, Walmart, Rakuten et PayPal.
+
+Une des premières grandes nouveautés dans le monde du javascript cette année est l’arrivée de io.js, un fork de node.js, le désormais célèbre portage du moteur javascript V8 comme plateforme indépendante. En effet les principaux contributeurs de io.js sont issues de node.js. L’idée dans un premier temps n’est pas de remplacer node mais de le faire évoluer avec un cycle de développement plus court et en incluant notamment le support d’Ecmascript 6. Fondamentalement, io.js possède une base de nodejs 0.10.35 ce qui veut dire que théoriquement l’éco-système npm est compatible et que vous pouvez utiliser io.js à la place de node.
+
+
+
+ORM
+---
+ORM peut faire référence à : Mapping objet-relationnel, une technique de programmation faisant le lien entre le monde de la base de données et le monde de la programmation objet. Elle permet de transformer une table en un objet facilement manipulable via ses attributs. L'utilisation de la programmation orientée objet avec une base de données nécessite de convertir les données en objets et vice-versa. Ceci conduit à programmer cette conversion pour chaque objet et donc à dupliquer énormément de code similaire. Elle est cependant moins utilisée dans l'univers de la programmation web, malgré un usage intensif des bases de données.
